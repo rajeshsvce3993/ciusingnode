@@ -18,7 +18,9 @@
   },
   "homepage": "https://github.com/rajeshsvce3993/ciusingnode#readme",
   "dependencies": {
-    "express": "^4.17.1"
+    "chai": "^4.2.0",
+    "express": "^4.17.1",
+    "request": "^2.88.0"
   },
   "devDependencies": {
     "mocha": "^6.2.2",
